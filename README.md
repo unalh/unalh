@@ -1,5 +1,5 @@
-## Hi, Welcome To My Github Profile.
-### I'm Ünal, I'm studying Computer Programming at <b>Istanbul Okan University</b>. I am sharing my projects here. I focus on JavaScript. Since I studied Information Technologies in high school, I am proficient in many software languages.
+
+### I'm studying Computer Programming at <b>Istanbul Okan University</b>. I am sharing my projects here. I focus on JavaScript. Since I studied Information Technologies in high school, I am proficient in many software languages.
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <br>

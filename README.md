@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 He is improving himself in front-end development. Constantly improving himself in HTML, Cascading Style Sheets (CSS), JavaScript, React. He is extra skilled in the field of Photoshop and Wordpress. Studied information technologies in high school and is studying Computer Programming at Istanbul Okan University.
 
 

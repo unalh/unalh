@@ -1,4 +1,4 @@
-# Hi, I'm Kral 👋
+
 
 ⚙️ IT & Cloud Support • Technical Troubleshooting • Automation & AI Tools
 
